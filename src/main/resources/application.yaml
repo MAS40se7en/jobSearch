@@ -33,7 +33,7 @@ management:
       enabled: true
   metrics:
     tags:
-      application: firstjobapp
+      application: ManirSaker_A2SKKB
       service: VS
       region: hungary
     enable:
